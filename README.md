@@ -2,7 +2,7 @@
 Merupakan mata kuliah semester 6 di Universitas Muhammadiyah Malang. Pada akhir semester kali ini, ditugaskan untuk membuat tugas akhir berdasarkan dari materi yang telah dipelajari. Kelompok kami memilih materi klasifikasi, yang dimana menurut kami klasifikasi gambar ini cukup mudah untuk diselesaikan guna memenuhi tugas akhir semester. Topik yang kami pilih yaitu terkait dengan "Klasifikasi Gambar Wajah Menggunakan Masker dan Tidak Menggunakan Masker". 
 
 ## Deskripsi Dataset 
-Dalam penyusunan project ini menggunakan dataset yang didapatkan dari [Github.com](https://github.com/prajnasb/observations/tree/master/experiements/dest_folder). Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari kurang lebih 1300 gambar. Dengan rincian direktori :
+Dalam penyusunan project ini menggunakan dataset yang didapatkan dari [Github.com]([https://github.com/prajnasb/observations/tree/master/experiements/dest_folder](https://github.com/prajnasb/observations/tree/master/experiements/data)). Dataset ini digunakan untuk Klasifikasi Deteksi Masker Wajah dengan gambar yang terdiri dari kurang lebih 1300 gambar. Setelah mendapatkan dataset tersebut kami membagi menjadi 3 value dari dataset mentah menjadi 3 tipe train dengan sebesar 80% sedangkan Test sebesar 10% dan Validasi sebesar 10%. Dengan rincian direktori :
   1. Test :
      * WithMask : 69 images
      * WithoutMask : 69 images
