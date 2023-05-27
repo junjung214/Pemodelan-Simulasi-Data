@@ -1,5 +1,6 @@
 # PEMODELAN dan SIMULASI DATA
-It is a 6th semester course at the University of Muhammadiyah Malang. At the end of this semester, assigned to make a final project based on the material that has been studied. Our group chose the classification material, which in our opinion this image classification is quite easy to complete in order to fulfill the final semester assignment. The topic we chose was related to "Classification Face Mask Detection Using Mask and Without Mask".
+It is a 6th semester course at the University of Muhammadiyah Malang. At the end of this semester, assigned to make a final project based on the material that has been studied. Our group chose the classification material, which in our opinion this image classification is quite easy to complete in order to fulfill the final semester assignment. The topic we chose was related to "Classification Face Mask Detection Using Mask and Without Mask". 
+Research Journal link : https://doi.org/10.29207/resti.v6i5.4336
 
 ## About Dataset 
 In compiling this project using datasets obtained from (Github.com)[https://github.com/prajnasb/observations/tree/master/experiments/dest_folder] and (Kaggle.com)[https://www.kaggle .com/omkargurav/face-mask-dataset] . This dataset is used for Classification of Face Mask Detection with images consisting of approximately 8929 images. After getting the dataset, we divide into 3 values from the raw dataset into 3 types of trains with 80% while Test 10% and Validation 10%. With directory details:
